@@ -22,7 +22,7 @@ class UserProfile extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
             Text(
-              'User  Profile Page',
+              'User   Page',
               style: TextStyle(fontSize: 50),
             ),
             Text(
@@ -33,5 +33,5 @@ class UserProfile extends StatelessWidget {
         ),
       ),
     );
-  }
+  } //test
 }
